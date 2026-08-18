@@ -27,5 +27,9 @@ This repository contains a comprehensive Markdown dataset of **8,900 computer pr
 
 Each entry follows this structure:
 
+languages{https://github.com/tech-salman/Languages/blob/main/computer_languages_8900_dictionary.md}
+
 ```text
 Language Name — Short descriptive summary.
+
+https://github.com/tech-salman/Languages/blob/main/computer_languages_8900_dictionary.md
